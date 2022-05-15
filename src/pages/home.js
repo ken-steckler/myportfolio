@@ -19,10 +19,7 @@ const Home = () => {
       <div class="mytech-card">
         <div class="mytech-container">
           <h2>My Skills</h2>
-          <p>
-            ReactJS, Python HTML, CSS, JavaScript, Databases(MongoDB), Express,
-            Git
-          </p>
+          <p>ReactJS, Python, HTML, CSS, JavaScript, Databases, Express, Git</p>
         </div>
       </div>
       <div class="contact-card">
