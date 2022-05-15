@@ -9,16 +9,15 @@ const About = () => {
             <h3>Hey there!</h3>
             <p>
               I'm Ken - a software engineer interested in fullstack web
-              development. I've worked both the frontend and backend and enjoy
-              creating applications with my users in mind.
+              development. I've worked with both the frontend and backend and
+              enjoy creating applications with my users in mind.
             </p>
             <p>
               I'm always thinking of new things to create. I'm currently working
-              on a meal prep idea to help my mom easily decide what she wants to
-              cook for the week. I plan on utilizing React for that. I also am
-              thinking of creating a quick tip calculator mobile application so
-              that the waiter/waitress does not wait for me twiddle my thumbs on
-              my native calculator app.
+              on a React meal prep app that will let me quickly decide what I
+              want to make for the week. I also plan on building my original tip
+              calculator app that lets me quickly calculate tip on my phone
+              without having to use my native calculator app.
             </p>
             <p>
               I am currently pursuing a Bacherlor's of Science degree in
